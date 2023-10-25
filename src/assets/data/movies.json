@@ -1,0 +1,686 @@
+[
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  },
+  {
+    "title": "Stranger Things",
+    "tags": ["Sci-Fi", "Horror", "Drama"],
+    "description": "A group of kids in a small town...",
+    "releaseYear": 2016,
+    "duration": "3 seasons",
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" }
+    ],
+    "director": "The Duffer Brothers",
+    "imageUrl": "https://example.com/stranger-things.jpg",
+    "trailerUrl": "https://example.com/stranger-things-trailer",
+    "movie": false,
+    "alreadySeen": true,
+    "views": 5000000,
+    "rating": 4.8
+  }
+]
