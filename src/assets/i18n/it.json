@@ -1,0 +1,33 @@
+{
+  "NAVBAR" : {
+    "Home" : "Home",
+    "SerieTv" : "Serie tv",
+    "Film" : "Film",
+    "NuoviPopolari" : "Nuovi popolari",
+    "LaMiaLista" : "La mia lista",
+    "SfogliaPerLingua" : "Sfoglia per lingua",
+    "Bambini" : "Bambini",
+    "GestisciProfili" : "Gestisci profili",
+    "TrasferisciProfilo" : "Transferisci profilo",
+    "Account" : "Account",
+    "CentroAssistenza" : "Centro assistenza",
+    "EsciDaNetflix" : "Esci da netflix",
+    "Sfoglia" : "Sfoglia"
+  },
+  "HOME" : {
+    "AudioDescrizione" : "Audiodescrizione",
+    "CarteRegalo" : "Carte regalo",
+    "RapportiConGliInvestitori" : "Rapporti con gli investitori",
+    "CondizioniDiUtilizzo" : "Condizioni di utilizzo",
+    "NoteLegali" : "Note legali",
+    "InformazioniAzienda" : "Informazioni sull'azienda",
+    "PreferenzePerLaPubblicita" : "Preferenze per la pubblicità",
+    "CentroAssistenza" : "Centro assistenza",
+    "MediaCenter" : "Media center",
+    "OpportunitaDiLavoro" : "Opportunità di lavoro",
+    "Privacy" : "Privacy",
+    "PreferenzePerCookie" : "Preferenze per i cookie",
+    "Contattaci" : "Contattaci",
+    "CodiceServizio" : "Codice di servizio"
+  }
+}

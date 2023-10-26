@@ -1,0 +1,33 @@
+{
+  "NAVBAR": {
+    "Home": "Home",
+    "SerieTv": "TV Series",
+    "Film": "Movies",
+    "NuoviPopolari": "New & Popular",
+    "LaMiaLista": "My List",
+    "SfogliaPerLingua": "Browse by Language",
+    "Bambini": "Kids",
+    "GestisciProfili": "Manage Profiles",
+    "TrasferisciProfilo": "Transfer Profile",
+    "Account": "Account",
+    "CentroAssistenza": "Help Center",
+    "EsciDaNetflix": "Sign Out",
+    "Sfoglia": "Browse"
+  },
+  "HOME": {
+    "AudioDescrizione": "Audio Description",
+    "CarteRegalo": "Gift Cards",
+    "RapportiConGliInvestitori": "Investor Relations",
+    "CondizioniDiUtilizzo": "Terms of Use",
+    "NoteLegali": "Legal Notices",
+    "InformazioniAzienda": "About Netflix",
+    "PreferenzePerLaPubblicita": "Ad Preferences",
+    "CentroAssistenza": "Help Center",
+    "MediaCenter": "Media Center",
+    "OpportunitaDiLavoro": "Jobs",
+    "Privacy": "Privacy",
+    "PreferenzePerCookie": "Cookie Preferences",
+    "Contattaci": "Contact Us",
+    "CodiceServizio": "Service Code"
+  }
+}

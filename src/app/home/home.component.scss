@@ -1,0 +1,154 @@
+main {
+  position: relative;
+  height: 100vh;
+
+  section {
+    padding: 0 4%;
+    background: rgb(20, 20, 20);
+  }
+
+  .hero {
+    width: 100%;
+    height: auto;
+    background: rgb(143, 10, 10);
+    padding: 0;
+    z-index: -1;
+
+    .video-wrap {
+      position: relative;
+
+      .video-hover {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+
+        .controls-buttons-wrap {
+          position: absolute;
+          bottom: 20%;
+          right: 50px;
+          display: flex;
+          align-items: center;
+          justify-content: flex-end;
+          gap: 20px;
+          width: 100%;
+
+          .mute-btn {
+            z-index: 99999;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            color: #fff;
+
+            &:focus {
+              background: #b3b3b3;
+            }
+          }
+
+          .pause-btn {
+            z-index: 99999;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            color: #fff;
+
+            &:focus {
+              background: #b3b3b3;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .film-list {
+    margin-top: -100px;
+    height: 100vh;
+    background: transparent;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 24px;
+
+    .social {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      gap: 12px;
+
+      div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        border: 1px solid #b3b3b3;
+        border-radius: 50%;
+        color: #fff;
+
+        &:hover {
+          background: #b3b3b3;
+          color: rgb(20, 20, 20);
+          cursor: pointer;
+        }
+      }
+    }
+
+    .grid-links {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      column-gap: 10px;
+
+      .link {
+        padding: 12px 0;
+        cursor: pointer;
+
+        &:hover {
+          color: #fff;
+        }
+      }
+    }
+
+    .btn-codice-service {
+      width: 100%;
+
+      button {
+        width: auto;
+        padding: 6.5px;
+        border: rgb(128, 128, 128) solid 1px;
+        color: #b3b3b3;
+        background: rgb(20, 20, 20);
+        cursor: pointer;
+
+        &:hover {
+          color: #fff;
+        }
+      }
+    }
+
+    .copyright-wrap {
+      width: 100%;
+      margin-top: 24px;
+      margin-bottom: 32px;
+
+      .copyright {
+        font-size: 14px;
+      }
+    }
+  }
+
+}

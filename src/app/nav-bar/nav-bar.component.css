@@ -4,21 +4,35 @@
   justify-content: space-between;
   width: 100%;
   background: rgb(20, 20, 20);
-  padding: 12px 0;
+  padding: 12px 4%;
 }
 .nav .links {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.nav .links .link-burger {
+  display: none;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: 16px;
+}
+.nav .links .links-wrap {
   display: flex;
   align-items: center;
   justify-content: flex-start;
   gap: 16px;
 }
-.nav .links .link {
-  color: #b3b3b3;
-  font-size: 1em;
+.nav .links .links-wrap .active {
+  color: #fff;
+}
+.nav .links .links-wrap .link {
+  font-size: 0.8em;
   cursor: pointer;
   letter-spacing: 1.5px;
 }
-.nav .links .link:hover {
+.nav .links .links-wrap .link:hover {
   color: #fff;
 }
 .nav .links .icon {
@@ -69,11 +83,11 @@
   position: absolute;
   display: none;
   right: 0;
-  top: 40px;
+  top: calc(100% + 30px);
   width: 220px;
   height: auto;
-  background: rgba(3, 2, 1, 0.16);
-  border: 0.5px solid rgba(255, 255, 255, 0.25);
+  background: rgba(0, 0, 0, 0.9);
+  border: 0.2px solid rgba(255, 255, 255, 0.25);
   border-radius: 0;
   backdrop-filter: blur(15px) opacity(0.7);
 }
@@ -93,7 +107,7 @@
   right: 27px;
   border-width: 8px;
   border-style: solid;
-  border-color: transparent transparent transparent rgba(255, 255, 255, 0.25);
+  border-color: transparent transparent transparent rgba(0, 0, 0, 0.9);
   transform: rotate(-90deg);
 }
 .nav .log .user .drop-down-user ul {
@@ -149,6 +163,56 @@
 .nav .log .user .drop-down-user ul li ul li:hover {
   text-decoration: underline;
   color: #fff;
+}
+
+@media screen and (max-width: 850px) {
+  .link-burger {
+    display: flex !important;
+    cursor: pointer;
+  }
+  .link-burger:hover + .links-wrap,
+  .link-burger + .links-wrap:hover {
+    display: flex !important;
+  }
+  .links-wrap {
+    display: none !important;
+    width: 200px;
+    position: absolute;
+    flex-direction: column;
+    top: calc(100% + 30px);
+    left: 33%;
+    background: rgba(0, 0, 0, 0.9);
+    border: 0.2px solid rgba(255, 255, 255, 0.25);
+    border-top: 2px solid #fff;
+    border-radius: 0;
+    backdrop-filter: blur(15px) opacity(0.7);
+    padding: 10px 0;
+    gap: 0 !important;
+  }
+  .links-wrap:after {
+    content: "";
+    position: absolute;
+    top: -18px;
+    right: 50%;
+    border-width: 8px;
+    border-style: solid;
+    border-color: transparent transparent transparent #fff;
+    transform: rotate(-90deg);
+    z-index: 1;
+  }
+  .links-wrap:before {
+    content: "";
+    position: absolute;
+    top: -40px;
+    width: 100%;
+    height: 80px;
+    background: transparent;
+    z-index: -1;
+  }
+  .links-wrap .link {
+    width: 100%;
+    padding: 8px 16px;
+  }
 }
 
 /*# sourceMappingURL=nav-bar.component.css.map */

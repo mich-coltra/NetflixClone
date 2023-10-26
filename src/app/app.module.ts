@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { HomeComponent } from './home/home.component';
-import {CommonModule} from "@angular/common";
+import {SharedModule} from "./shared/shared.module";
 
 @NgModule({
   declarations: [
@@ -16,10 +16,10 @@ import {CommonModule} from "@angular/common";
   imports: [
     BrowserModule,
     AppRoutingModule,
-    CommonModule
+    SharedModule,
   ],
   exports: [
-    CommonModule
+    SharedModule
   ],
   providers: [],
   bootstrap: [AppComponent]

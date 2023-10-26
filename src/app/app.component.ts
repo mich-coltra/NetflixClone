@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {TranslateService} from "@ngx-translate/core";
+import {SharedService} from "./shared/shared.service";
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Netflix-cloneq';
+
+  constructor(private translate: TranslateService,
+              private shared: SharedService) {
+    translate.addLangs(['it', 'italian']);
+    translate.addLangs(['en', 'english']);
+    //
+    const pcLanguage = this.shared.languageUsedByPc();
+    //
+    translate.setDefaultLang('en');
+    translate.use(pcLanguage.split('-')[0]);
+  }
 }
